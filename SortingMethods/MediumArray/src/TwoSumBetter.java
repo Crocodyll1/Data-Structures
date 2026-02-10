@@ -8,8 +8,6 @@ public class TwoSumBetter {
 
                 int[] arr = {2, 5, 3, 6, 7, 8};
                 int target = 13;
-
-                // Step 1: Sort the array
                 Arrays.sort(arr);
 
                 int start = 0;
@@ -20,7 +18,7 @@ public class TwoSumBetter {
 
                     if (sum == target) {
                         System.out.println("Pair found: " + arr[start] + ", " + arr[end]);
-                        return; // exit after finding one pair
+                        return;
                     }
                     else if (sum > target) {
                         end--;
@@ -34,6 +32,14 @@ public class TwoSumBetter {
             }
         }
 
+
+        /*
+        Two Sum problem with better approach
+        TC = O(n log n)
+        step 1 = sort the array
+        step 2 = compare sum of start and end with sum
+        step 3 = print the result
+         */
 
 
 
