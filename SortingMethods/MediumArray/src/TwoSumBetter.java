@@ -3,9 +3,6 @@ import java.util.Arrays;
 public class TwoSumBetter {
     public static void main(String[] args) {
 
-
-
-
                 int[] arr = {2, 5, 3, 6, 7, 8};
                 int target = 13;
                 Arrays.sort(arr);
