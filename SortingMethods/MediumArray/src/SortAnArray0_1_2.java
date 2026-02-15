@@ -23,3 +23,8 @@ public class SortAnArray0_1_2 {
 
     }
 }
+
+/* Sort an array of 0,1,2
+Brute force approach
+TC = O(N^N)
+ */
