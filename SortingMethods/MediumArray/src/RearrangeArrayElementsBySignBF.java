@@ -1,52 +1,29 @@
-
 import java.util.*;
+public class RearrangeArrayElementsBySignBF{
 
-public class RearrangeArrayElementsBySignBF {
+    public static int[] rearrange(int[] nums){
+        ArrayList<Integer> positive = new ArrayList<>();
+        ArrayList<Integer> negative = new ArrayList<>();
 
-    public static int[] rearrangeArray(int[] nums) {
-
-        int n = nums.length;
-
-        int[] ans = new int[n];
-
-        int posIndex = 0;
-        int negIndex = 1;
-
-        for (int i = 0; i < n; i++) {
-
-            if (nums[i] < 0) {
-                ans[negIndex] = nums[i];
-                negIndex += 2;
-            } else {
-                ans[posIndex] = nums[i];
-                posIndex += 2;
+        for(int num : nums){
+            if(num > 0){
+                positive.add(num);
+            }
+            else{
+                negative.add(num);
             }
         }
+        for(int i =0; i<nums.length/2; i++){
+            nums[2*i] = positive.get(i);
+            nums[2*i+1] = negative.get(i);
+        }
+        return nums;
 
-        return ans;
     }
-
     public static void main(String[] args) {
+        int[] nums = {3,1,-1,-4,2,-6};
+        int[] result = rearrange(nums);
+        System.out.println(Arrays.toString(result));
 
-        Scanner sc = new Scanner(System.in);
-
-        // Input size
-        int n = sc.nextInt();
-
-        int[] nums = new int[n];
-
-        // Input array elements
-        for (int i = 0; i < n; i++) {
-            nums[i] = sc.nextInt();
-        }
-
-        int[] result = rearrangeArray(nums);
-
-        // Print result
-        for (int i = 0; i < result.length; i++) {
-            System.out.print(result[i] + " ");
-        }
-
-        sc.close();
     }
 }
