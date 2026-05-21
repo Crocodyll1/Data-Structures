@@ -27,3 +27,16 @@ public class RearrangeArrayElementsBySignBF{
 
     }
 }
+
+/*
+TC = O(n) + O(n)
+SC = O(n)
+Easy Steps:
+ Create two lists:
+ one for positive numbers
+ one for negative numbers
+ Traverse the array.
+ Store positives and negatives separately.
+ Place positive numbers at even indexes.
+ Place negative numbers at odd indexes.
+ */
