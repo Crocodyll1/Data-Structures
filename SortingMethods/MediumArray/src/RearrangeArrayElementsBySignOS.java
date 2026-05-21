@@ -30,3 +30,17 @@ public class RearrangeArrayElementsBySignOS {
 
     }
 }
+
+
+/*
+TC = O(n)
+SC = O(n)
+
+5 Easy Steps
+Create a new array ans.
+Keep pos = 0 and neg = 1.
+Traverse the array once.
+Put positives at even indexes.
+Put negatives at odd indexes.
+
+ */
