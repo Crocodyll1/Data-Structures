@@ -56,12 +56,10 @@ public class NextPermutation {
 /*
 Steps
 * Find breakpoint from right where:
-* nums[i]<nums[i+1]
+  nums[i]<nums[i+1]
 * Find next greater element from right.
 * Swap both elements.
 * Reverse remaining right part.
-Time Complexity
-O(N)
-Space Complexity
-O(1)
+Time Complexity : O(N)
+Space Complexity : O(1)
  */
