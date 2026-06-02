@@ -63,7 +63,7 @@ public class PrintTheMatrixInSpiralManner {
 Optimal Approach:
 
 Maintain four boundaries:
-        1. top    -> starting row
+ 1. top    -> starting row
 2. bottom -> ending row
 3. left   -> starting column
 4. right  -> ending column
