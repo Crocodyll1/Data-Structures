@@ -31,3 +31,26 @@ public class SubArraySumOS {
         }
     }
 
+
+/*
+Approach:
+
+1. Use Prefix Sum and HashMap.
+
+2. Store prefixSum -> frequency in the HashMap.
+   Initialize map with {0,1} to handle subarrays
+   that start from index 0.
+
+3. Traverse the array:
+   - Add current element to prefixSum.
+   - Check if (prefixSum - k) exists in the map.
+     If it exists, add its frequency to count
+     because it forms a subarray with sum k.
+   - Store/update the current prefixSum frequency
+     in the map.
+
+4. Return the total count of subarrays whose sum equals k.
+
+Time Complexity: O(N)
+Space Complexity: O(N)
+*/
