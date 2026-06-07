@@ -13,7 +13,7 @@ public class PrintingNthRowPascalTriangle {
     }
 
     public static void main(String[] args) {
-        Element(7);
+        Element(5);
     }
 }
 
