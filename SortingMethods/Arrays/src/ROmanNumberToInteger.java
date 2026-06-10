@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class RomanNumberToInteger {
+public class ROmanNumberToInteger{
 
     public static int getVal(char ch) {
         switch (ch) {
