@@ -4,9 +4,9 @@ class Solution {
         int max = 0;
 
         for(int num : nums){
-            if(num > max){
-                max = num;
-            }
+            
+            max = Math.max(max,num);
+            
         }
         return max;
     }
@@ -14,17 +14,15 @@ class Solution {
         long totalBanana= 0;
         
         for(int num : piles){
-            totalBanana += num/mid;
+            totalBanana += (num + mid -1)/mid;
 
-            if(num%mid != 0){
-                totalBanana++;
-            }
+            
 
         }
-        if(totalBanana <= h){
-            return true;
+        if(totalBanana > h){
+            return false;
         }
-        return false;
+        return true;
     }
     public int minEatingSpeed(int[] piles, int h) {
         int low = 1;
