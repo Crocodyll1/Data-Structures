@@ -1,11 +1,5 @@
 class Solution {
-    public int max(int[] weights){
-        int maxi = 0;
-        for(int num : weights){
-            maxi = Math.max(maxi,num);
-        }
-        return maxi;
-    }
+    
 
     public Boolean day(int[] weights, int mid, int days){
         int day = 1;
@@ -15,17 +9,26 @@ class Solution {
             if(num + load > mid){
                 day++;
                 load = num;
+
+                if(day > days)return false;
             }
             else{
                 load += num;
             }
         }
-        return day<=days;
+        return true;
     }
     
     public int shipWithinDays(int[] weights, int days) {
-        int low = max(weights);
-        int high = Arrays.stream(weights).sum();
+        int max= 0;
+        int sum=0;
+        for(int num : weights){
+            max = Math.max(max, num);
+            sum += num;
+        }
+        
+        int low = max;
+        int high = sum;
 
         while(low <= high){
             int mid = low + (high - low)/2;
