@@ -12,6 +12,7 @@ This repository is useful for coding interview preparation, DSA practice, and un
 | [0875-koko-eating-bananas](https://github.com/Crocodyll1/Data-Structures/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Crocodyll1/Data-Structures/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Crocodyll1/Data-Structures/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1539-kth-missing-positive-number](https://github.com/Crocodyll1/Data-Structures/tree/master/1539-kth-missing-positive-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -20,6 +21,7 @@ This repository is useful for coding interview preparation, DSA practice, and un
 | [0875-koko-eating-bananas](https://github.com/Crocodyll1/Data-Structures/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Crocodyll1/Data-Structures/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Crocodyll1/Data-Structures/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1539-kth-missing-positive-number](https://github.com/Crocodyll1/Data-Structures/tree/master/1539-kth-missing-positive-number) |
 ## Two Pointers
 |  |
 | ------- |
