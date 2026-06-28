@@ -44,4 +44,8 @@ This repository is useful for coding interview preparation, DSA practice, and un
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Crocodyll1/Data-Structures/tree/master/0410-split-array-largest-sum) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Crocodyll1/Data-Structures/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
