@@ -50,6 +50,7 @@ This repository is useful for coding interview preparation, DSA practice, and un
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Crocodyll1/Data-Structures/tree/master/0176-second-highest-salary) |
+| [0177-nth-highest-salary](https://github.com/Crocodyll1/Data-Structures/tree/master/0177-nth-highest-salary) |
 ## Divide and Conquer
 |  |
 | ------- |
