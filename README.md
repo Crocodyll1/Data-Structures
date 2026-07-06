@@ -54,6 +54,7 @@ This repository is useful for coding interview preparation, DSA practice, and un
 | [0178-rank-scores](https://github.com/Crocodyll1/Data-Structures/tree/master/0178-rank-scores) |
 | [0183-customers-who-never-order](https://github.com/Crocodyll1/Data-Structures/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/Crocodyll1/Data-Structures/tree/master/0196-delete-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/Crocodyll1/Data-Structures/tree/master/0197-rising-temperature) |
 ## Divide and Conquer
 |  |
 | ------- |
