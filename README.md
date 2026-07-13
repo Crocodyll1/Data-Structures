@@ -18,6 +18,7 @@ This repository is useful for coding interview preparation, DSA practice, and un
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Crocodyll1/Data-Structures/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Crocodyll1/Data-Structures/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/Crocodyll1/Data-Structures/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/Crocodyll1/Data-Structures/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -31,6 +32,7 @@ This repository is useful for coding interview preparation, DSA practice, and un
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Crocodyll1/Data-Structures/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Crocodyll1/Data-Structures/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/Crocodyll1/Data-Structures/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/Crocodyll1/Data-Structures/tree/master/1901-find-a-peak-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,4 +97,5 @@ This repository is useful for coding interview preparation, DSA practice, and un
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Crocodyll1/Data-Structures/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Crocodyll1/Data-Structures/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/Crocodyll1/Data-Structures/tree/master/1901-find-a-peak-element-ii) |
 <!---LeetCode Topics End-->
