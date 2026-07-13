@@ -88,6 +88,7 @@ This repository is useful for coding interview preparation, DSA practice, and un
 | [0014-longest-common-prefix](https://github.com/Crocodyll1/Data-Structures/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Crocodyll1/Data-Structures/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Crocodyll1/Data-Structures/tree/master/0151-reverse-words-in-a-string) |
+| [0796-rotate-string](https://github.com/Crocodyll1/Data-Structures/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Crocodyll1/Data-Structures/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Crocodyll1/Data-Structures/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
@@ -105,4 +106,8 @@ This repository is useful for coding interview preparation, DSA practice, and un
 | [0074-search-a-2d-matrix](https://github.com/Crocodyll1/Data-Structures/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Crocodyll1/Data-Structures/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/Crocodyll1/Data-Structures/tree/master/1901-find-a-peak-element-ii) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Crocodyll1/Data-Structures/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
