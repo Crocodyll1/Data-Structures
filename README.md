@@ -89,6 +89,7 @@ This repository is useful for coding interview preparation, DSA practice, and un
 | [0014-longest-common-prefix](https://github.com/Crocodyll1/Data-Structures/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Crocodyll1/Data-Structures/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Crocodyll1/Data-Structures/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Crocodyll1/Data-Structures/tree/master/0205-isomorphic-strings) |
 | [0796-rotate-string](https://github.com/Crocodyll1/Data-Structures/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Crocodyll1/Data-Structures/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Crocodyll1/Data-Structures/tree/master/1903-largest-odd-number-in-string) |
@@ -111,4 +112,8 @@ This repository is useful for coding interview preparation, DSA practice, and un
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Crocodyll1/Data-Structures/tree/master/0796-rotate-string) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/Crocodyll1/Data-Structures/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
