@@ -75,6 +75,7 @@ This repository is useful for coding interview preparation, DSA practice, and un
 | [0607-sales-person](https://github.com/Crocodyll1/Data-Structures/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/Crocodyll1/Data-Structures/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/Crocodyll1/Data-Structures/tree/master/0620-not-boring-movies) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Crocodyll1/Data-Structures/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/Crocodyll1/Data-Structures/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/Crocodyll1/Data-Structures/tree/master/1075-project-employees-i) |
 | [1084-sales-analysis-iii](https://github.com/Crocodyll1/Data-Structures/tree/master/1084-sales-analysis-iii) |
