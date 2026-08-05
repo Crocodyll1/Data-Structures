@@ -74,6 +74,7 @@ This repository is useful for coding interview preparation, DSA practice, and un
 | [0595-big-countries](https://github.com/Crocodyll1/Data-Structures/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/Crocodyll1/Data-Structures/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/Crocodyll1/Data-Structures/tree/master/0610-triangle-judgement) |
+| [0619-biggest-single-number](https://github.com/Crocodyll1/Data-Structures/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Crocodyll1/Data-Structures/tree/master/0620-not-boring-movies) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Crocodyll1/Data-Structures/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/Crocodyll1/Data-Structures/tree/master/1068-product-sales-analysis-i) |
