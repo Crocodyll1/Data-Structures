@@ -82,6 +82,7 @@ This repository is useful for coding interview preparation, DSA practice, and un
 | [1084-sales-analysis-iii](https://github.com/Crocodyll1/Data-Structures/tree/master/1084-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Crocodyll1/Data-Structures/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1211-queries-quality-and-percentage](https://github.com/Crocodyll1/Data-Structures/tree/master/1211-queries-quality-and-percentage) |
+| [1251-average-selling-price](https://github.com/Crocodyll1/Data-Structures/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Crocodyll1/Data-Structures/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Divide and Conquer
 |  |
