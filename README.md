@@ -84,6 +84,7 @@ This repository is useful for coding interview preparation, DSA practice, and un
 | [1211-queries-quality-and-percentage](https://github.com/Crocodyll1/Data-Structures/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/Crocodyll1/Data-Structures/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Crocodyll1/Data-Structures/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1407-top-travellers](https://github.com/Crocodyll1/Data-Structures/tree/master/1407-top-travellers) |
 ## Divide and Conquer
 |  |
 | ------- |
