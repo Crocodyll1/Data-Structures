@@ -90,6 +90,7 @@ This repository is useful for coding interview preparation, DSA practice, and un
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Crocodyll1/Data-Structures/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1407-top-travellers](https://github.com/Crocodyll1/Data-Structures/tree/master/1407-top-travellers) |
 | [1527-patients-with-a-condition](https://github.com/Crocodyll1/Data-Structures/tree/master/1527-patients-with-a-condition) |
+| [1683-invalid-tweets](https://github.com/Crocodyll1/Data-Structures/tree/master/1683-invalid-tweets) |
 ## Divide and Conquer
 |  |
 | ------- |
