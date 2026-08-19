@@ -102,6 +102,7 @@ This repository is useful for coding interview preparation, DSA practice, and un
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Crocodyll1/Data-Structures/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/Crocodyll1/Data-Structures/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Crocodyll1/Data-Structures/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Crocodyll1/Data-Structures/tree/master/0876-middle-of-the-linked-list) |
 ## Math
@@ -114,6 +115,7 @@ This repository is useful for coding interview preparation, DSA practice, and un
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Crocodyll1/Data-Structures/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/Crocodyll1/Data-Structures/tree/master/0206-reverse-linked-list) |
 ## String
 |  |
 | ------- |
