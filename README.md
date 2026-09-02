@@ -19,6 +19,7 @@ This repository is useful for coding interview preparation, DSA practice, and un
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Crocodyll1/Data-Structures/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/Crocodyll1/Data-Structures/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Crocodyll1/Data-Structures/tree/master/1901-find-a-peak-element-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Crocodyll1/Data-Structures/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -124,6 +125,7 @@ This repository is useful for coding interview preparation, DSA practice, and un
 | [0002-add-two-numbers](https://github.com/Crocodyll1/Data-Structures/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Crocodyll1/Data-Structures/tree/master/0013-roman-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/Crocodyll1/Data-Structures/tree/master/1903-largest-odd-number-in-string) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Crocodyll1/Data-Structures/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
