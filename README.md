@@ -103,6 +103,7 @@ This repository is useful for coding interview preparation, DSA practice, and un
 | [1587-bank-account-summary-ii](https://github.com/Crocodyll1/Data-Structures/tree/master/1587-bank-account-summary-ii) |
 | [1683-invalid-tweets](https://github.com/Crocodyll1/Data-Structures/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/Crocodyll1/Data-Structures/tree/master/1693-daily-leads-and-partners) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/Crocodyll1/Data-Structures/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1795-rearrange-products-table](https://github.com/Crocodyll1/Data-Structures/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/Crocodyll1/Data-Structures/tree/master/1873-calculate-special-bonus) |
 | [3421-find-students-who-improved](https://github.com/Crocodyll1/Data-Structures/tree/master/3421-find-students-who-improved) |
