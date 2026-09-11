@@ -108,6 +108,7 @@ This repository is useful for coding interview preparation, DSA practice, and un
 | [1789-primary-department-for-each-employee](https://github.com/Crocodyll1/Data-Structures/tree/master/1789-primary-department-for-each-employee) |
 | [1795-rearrange-products-table](https://github.com/Crocodyll1/Data-Structures/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/Crocodyll1/Data-Structures/tree/master/1873-calculate-special-bonus) |
+| [1965-employees-with-missing-information](https://github.com/Crocodyll1/Data-Structures/tree/master/1965-employees-with-missing-information) |
 | [3421-find-students-who-improved](https://github.com/Crocodyll1/Data-Structures/tree/master/3421-find-students-who-improved) |
 ## Divide and Conquer
 |  |
