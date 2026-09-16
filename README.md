@@ -113,6 +113,7 @@ This repository is useful for coding interview preparation, DSA practice, and un
 | [1873-calculate-special-bonus](https://github.com/Crocodyll1/Data-Structures/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/Crocodyll1/Data-Structures/tree/master/1890-the-latest-login-in-2020) |
 | [1965-employees-with-missing-information](https://github.com/Crocodyll1/Data-Structures/tree/master/1965-employees-with-missing-information) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Crocodyll1/Data-Structures/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3421-find-students-who-improved](https://github.com/Crocodyll1/Data-Structures/tree/master/3421-find-students-who-improved) |
 ## Divide and Conquer
 |  |
