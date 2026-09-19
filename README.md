@@ -116,6 +116,7 @@ This repository is useful for coding interview preparation, DSA practice, and un
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Crocodyll1/Data-Structures/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3220-odd-and-even-transactions](https://github.com/Crocodyll1/Data-Structures/tree/master/3220-odd-and-even-transactions) |
 | [3421-find-students-who-improved](https://github.com/Crocodyll1/Data-Structures/tree/master/3421-find-students-who-improved) |
+| [3570-find-books-with-no-available-copies](https://github.com/Crocodyll1/Data-Structures/tree/master/3570-find-books-with-no-available-copies) |
 ## Divide and Conquer
 |  |
 | ------- |
