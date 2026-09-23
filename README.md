@@ -96,6 +96,7 @@ This repository is useful for coding interview preparation, DSA practice, and un
 | [1251-average-selling-price](https://github.com/Crocodyll1/Data-Structures/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/Crocodyll1/Data-Structures/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Crocodyll1/Data-Structures/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1393-capital-gainloss](https://github.com/Crocodyll1/Data-Structures/tree/master/1393-capital-gainloss) |
 | [1407-top-travellers](https://github.com/Crocodyll1/Data-Structures/tree/master/1407-top-travellers) |
 | [1484-group-sold-products-by-the-date](https://github.com/Crocodyll1/Data-Structures/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/Crocodyll1/Data-Structures/tree/master/1527-patients-with-a-condition) |
