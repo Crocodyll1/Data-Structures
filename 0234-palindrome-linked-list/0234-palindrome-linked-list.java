@@ -10,42 +10,29 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-         ListNode slow = head;
-         ListNode fast = head;
+        ListNode fast = head;
+        ListNode slow = head;
 
-         if(head == null || head.next == null){
-            return true;
-         }
-
-         while(fast != null && fast.next != null){
-            slow = slow.next;
+        while(fast != null && fast.next != null){
             fast = fast.next.next;
-        }
-        if(fast != null){
             slow = slow.next;
         }
-        ListNode prev = null;
+        ListNode prev = null;;
         ListNode curr = slow;
+        ListNode temp = null;
 
-        while (curr != null) {
-
-        ListNode next = curr.next;  
-        curr.next = prev;           
-        prev = curr;                
-        curr = next;             
+        while(curr != null){
+            temp = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = temp;
         }
-   
-        ListNode first = head;
-        ListNode second = prev;
-        while(second != null){
-            if(first.val != second.val){
-            return false;
-            }
-            first = first.next;
-            second = second.next;
+        while(prev != null){
+            if(head.val != prev.val) return false;
+            head = head.next;
+            prev= prev.next;
         }
-    return true;
-        
+        return true;
 
     }
 }
